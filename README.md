@@ -1,2 +1,36 @@
-# animated-login-page
-This project is a responsive and animated login page built using HTML and CSS. It features smooth transitions, a clean layout, and modern design. The page adjusts well to all screen sizes, offering a consistent user experience. Ideal for use in web apps or as a starting point for authentication pages.
+# ✨ Project Title
+
+A simple and responsive [insert brief description here, e.g., "animated login page", "travel landing page", etc.] built using HTML and CSS.
+
+---
+
+## 🔗 Live Preview
+
+[Click here to view the project](https://your-preview-link.com)
+
+---
+
+## 📁 Project Structure
+
+- index.html – Main HTML file  
+- style.css – Styling file  
+- assets/ – (Optional) Folder for images, icons, or fonts  
+
+---
+
+## 🚀 Features
+
+- Responsive layout  
+- Clean HTML5 structure  
+- CSS animations and transitions  
+- Mobile-friendly using media queries  
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5  
+- CSS3  
+- (Optional: JavaScript)
+
+---
