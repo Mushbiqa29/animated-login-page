@@ -1,12 +1,12 @@
 # ✨ Project Title
 
-A simple and responsive [insert brief description here, e.g., "animated login page", "travel landing page", etc.] built using HTML and CSS.
+A simple and responsive animated login page,  built using HTML,CSS and Java Script
 
 ---
 
 ## 🔗 Live Preview
 
-[Click here to view the project](https://your-preview-link.com)
+[Click here to view the project] https://mushbiqa29.github.io/animated-login-page/
 
 ---
 
